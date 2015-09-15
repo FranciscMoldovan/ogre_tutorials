@@ -1,0 +1,1 @@
+/home/francisc/ogre_pjcts/og/CMakeFiles/OgreApp.dir
